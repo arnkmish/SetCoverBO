@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 import random
 from scipy.stats import norm
-#from sklearn.datasets import make_regression
+
 
 def readInput(path):
 	book = xlrd.open_workbook(path) # in my case the directory contains the excel file named excel.xls

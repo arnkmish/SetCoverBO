@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"x_new"
+			],
+			[
+				"be",
+				"best_sol_val"
+			],
+			[
+				"da",
+				"dataset_values"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"data",
+				"dataset_values"
+			],
+			[
+				"ran",
+				"random_sel"
+			],
+			[
+				"bes",
+				"best_sol"
+			],
+			[
+				"list",
+				"listOfX"
+			],
+			[
+				"lis",
+				"listOfX"
+			],
+			[
+				"ra",
+				"randSol"
+			],
+			[
+				"temp",
+				"temp_yt"
+			],
+			[
+				"c",
+				"c_val"
+			],
+			[
+				"m",
+				"m_val"
+			],
+			[
+				"y",
+				"yList"
+			],
+			[
+				"tota",
+				"totalWeight"
+			],
+			[
+				"all",
+				"allPossibleChildrenVal"
+			],
+			[
+				"tem",
+				"tempValue"
+			],
+			[
+				"fina",
+				"finalVal"
+			],
+			[
+				"pre",
+				"prevVal"
+			],
+			[
+				"te",
+				"tempX"
+			],
+			[
+				"total",
+				"totalValue"
+			],
+			[
+				"item",
+				"item_count"
+			],
+			[
+				"Temp",
+				"tempList"
+			],
+			[
+				"tra",
+				"trajVals"
+			],
+			[
+				"Da",
+				"DatasetX"
+			],
+			[
+				"traje",
+				"trajectoryX"
+			],
+			[
+				"al",
+				"allVals"
+			],
+			[
+				"s",
+				"startVal"
+			],
+			[
+				"a",
+				"allPossible"
+			],
+			[
+				"D",
+				"dataset_"
+			],
+			[
+				"max",
+				"max_iter"
+			],
+			[
+				"iterat",
+				"iteration"
+			],
+			[
+				"Val",
+				"Vals"
+			],
+			[
+				"E",
+				"evaluate"
+			],
+			[
+				"next",
+				"nextPoint"
+			],
+			[
+				"my",
+				"myfile1"
+			],
+			[
+				"Ex",
+				"expectedImprovement"
+			],
+			[
+				"RLS",
+				"RLS_best"
+			],
+			[
+				"EI",
+				"EIbestVal"
+			],
+			[
+				"RL",
+				"RLS_Val_Res"
+			],
+			[
+				"R",
+				"RLS_X_Res"
+			],
+			[
+				"prev",
+				"prevBestEI"
+			],
+			[
+				"cur",
+				"currentBestEI"
+			],
+			[
+				"cu",
+				"currentBestX"
+			],
+			[
+				"gene",
+				"generateRandomData"
+			],
+			[
+				"random",
+				"random_state"
+			],
+			[
+				"max_",
+				"max_iter"
+			],
+			[
+				"ne",
+				"nextPoint"
+			],
+			[
+				"rand",
+				"random_state"
+			],
+			[
+				"re",
+				"regr"
+			],
+			[
+				"gee",
+				"generateRandomData"
+			],
+			[
+				"ge",
+				"generateRandomData"
+			],
+			[
+				"req",
+				"reqSat"
+			],
+			[
+				"reqCo",
+				"reqCollectFlat"
+			],
+			[
+				"Data",
+				"Dataset"
+			],
+			[
+				"to",
+				"totalTimeTaken"
+			],
+			[
+				"time",
+				"timeTaken"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/arnab.mishra/Documents/afterRGU/NIT_Silchar_PhD/My_Research/SetCoverStudentPaper/SetCoverBO/Set_Cover_EI_BayesOpt.py",
+		"/Users/arnab.mishra/Documents/afterRGU/NIT_Silchar_PhD/My_Research/SetCoverStudentPaper/SetCoverBO/Set_Cover_PI_BayesOpt.py",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/My_Research/SetCoverStudentPaper/SetCover.py",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/My_Research/SetCoverStudentPaper/SetCoverBO/README.md",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/My_Research/SetCoverStudentPaper/final.py",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/My_Research/BO_TestSuitMinimization/STAGE.py",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/Research/BO_TestSuitMinimization/STAGE/modifiedStage.py",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/Research/BO_TestSuitMinimization/BO.py",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/Research/SetCoverStudentPaper/SetCover.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/ComputerApplications/WebProgramming/cssTest1.html",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/Research/SetCoverStudentPaper/RFRegTest.py",
+		"/Users/arnab.mishra/Documents/afterWSU/PhDRelated/Research/SetCoverStudentPaper/Stage",
+		"/Users/arnab.mishra/Downloads/Testcase.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/MachineLearing/knapsack/with STAGE/STAGE.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/MachineLearing/TCM/randSol.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/DataScience/dataset/business.json",
+		"/Users/arnab.mishra/Documents/afterWSU/StudyRelated/CS50/Lecture1_C_Prog/numberComparator.c",
+		"/Users/arnab.mishra/Documents/afterWSU/StudyRelated/CS50/Lecture1_C_Prog/forExample.c",
+		"/Users/arnab.mishra/Documents/afterWSU/StudyRelated/CS50/Lecture1_C_Prog/helloWorld.c",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/MachineLearing/knapsack/solver.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/DataScience/dataset/get_businessid.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/DataScience/dataset/get_reviews.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/ComputerApplications/WebProgramming/css1.css",
+		"/Users/arnab.mishra/Documents/afterWSU/PhD_Admissions/iitPHDadmissionStatus.txt",
+		"/Users/arnab.mishra/Desktop/embedTest.html",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/NeuralNetworks/Assignments/Assignment2/StudentSubmissions/Sanket/Sanket.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/NeuralNetworks/Assignments/Assignment2/StudentSubmissions/RahulSingha/Grad_descent.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/MachineLearing/knapsack/knapsack_fixed/ks_fix.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/NeuralNetworks/Assignments/Assignment2/Assignment2.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/MachineLearing/knapsack/HillClimbingImplementation/ks_hc/ks.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/ComputerCommunicationNetwork/Labs/SocketProgramming/TcpChatServer.py",
+		"/Users/arnab.mishra/Documents/afterWSU/Study Materials/DiscreteOptimization/Assignment2/knapsack/solver.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/NeuralNetworks/Assignments/Assignment2.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/Projects/DataScience/dataset/review.json",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/NeuralNetworks/Assignments/Assignment1/StudentSubmissions/KaushikDas/KaushikAmarDas NN Assignment/NaiveBayes.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/ComputerCommunicationNetwork/Labs/SocketProgramming/tcpEchoServer.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/NeuralNetworks/gradientDescent.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/ComputerCommunicationNetwork/Labs/SocketProgramming/server.py",
+		"/Users/arnab.mishra/Documents/afterWSU/Study Materials/DiscreteOptimization/Assignment1/anyint/solver.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/ComputerCommunicationNetwork/PythonBasics/tasks.txt",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/ComputerCommunicationNetwork/PythonBasics/pythonTest.py",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/NeuralNetworks/rt-polaritydata/rt-polaritydata/rt-polarity.neg",
+		"/Users/arnab.mishra/Documents/afterWSU/RGU/NeuralNetworks/rt-polaritydata/rt-polaritydata/rt-polarity.pos",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/Research/BO_TestSuitMinimization/STAGE/STAGE.py",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/Research/BO_TestSuitMinimization/BO.py",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/Research/BO_TestSuitMinimization/STAGE/modifiedStage.py",
+		"/Users/arnab.mishra/Documents/afterWSU/Kaggle/Titanic/dataset/trialCode.py",
+		"/Users/arnab.mishra/Documents/afterWSU/LearnPythonTheHardWay/IntPrepDSnA/binSearch.py",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/Research/MLforMaterialsDesign/test.py",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/Research/BO_TestSuitMinimization/STAGE.py",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/Research/BO_TestSuitMinimization/test1.py",
+		"/Users/arnab.mishra/Documents/afterWSU/GATE/ProgrammingAndDataStructures/arrayAndFunctions.c",
+		"/Users/arnab.mishra/Documents/afterWSU/GATE/ProgrammingAndDataStructures/constantUsingConstKeyword.c",
+		"/Users/arnab.mishra/Documents/afterWSU/GATE/ProgrammingAndDataStructures/constantUsingDefine.c",
+		"/Users/arnab.mishra/Documents/afterWSU/GATE/ProgrammingAndDataStructures/floatSizeTest.c",
+		"/Users/arnab.mishra/Documents/afterWSU/GATE/ProgrammingAndDataStructures/sizeTest.c",
+		"/Users/arnab.mishra/Documents/afterWSU/GATE/ProgrammingAndDataStructures/firstProgram.c",
+		"/Users/arnab.mishra/Documents/test.c",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/OOPs/InnerClassDemo1.java",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/OOPs/BoxDemo.java",
+		"/Users/arnab.mishra/Documents/afterWSU/PPF_Deposit/ppf1",
+		"/Users/arnab.mishra/Documents/afterWSU/LearnCTheHardWay/C_Codes/printFormatting.c",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/Docs/credentials.txt",
+		"/Volumes/RAWEE/PBD/dl.html",
+		"/Users/arnab.mishra/Documents/afterWSU/KLU/PBD_Prep/first.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obj",
+			"taken",
+			"ind",
+			" / 20"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SetCover_100Init_500BO_50Stage_excel4.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
