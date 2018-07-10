@@ -9,10 +9,10 @@ from scipy.stats import norm
 def readInput(path):
 	book = xlrd.open_workbook(path) # in my case the directory contains the excel file named excel.xls
 	sheet = book.sheet_by_index(0)
-	n=21
-	m=6
+	n=512
+	m=211
 
-	tr_list=list(np.zeros((20,5)))
+	tr_list=list(np.zeros((511,210)))
 	for i in range(1,n):
 		for j in range(1,m):
 			x=sheet.cell_value(i,j)
@@ -124,7 +124,7 @@ def stage(n,best_sol_val, regr1):
 	list2 = list()
 	listofX=list()
 	valuesOfX=list()
-	for k in range(500):	
+	for k in range(50):	
 		cur_sol,cur_val,dataset =hillclimb(x_start,best_sol_val, regr1)
 		print (str(k)+' number iteration first hillclimb is done')
 		list1.append(cur_sol)
@@ -153,11 +153,11 @@ def stage(n,best_sol_val, regr1):
 	return best_sol
 
 def main():	
-	path = "Matrix1.xlsx"
+	path = "excel4.xlsx"
 	tr = readInput(path)
 	tr = np.array(tr)
 	tv = list()
-	for i in range(20):
+	for i in range(511):
 		tv.append(10)
 
 	tv = np.array(tv)
